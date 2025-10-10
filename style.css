@@ -1,13 +1,13 @@
 @font-face {
-    font-family: "Linux Libertine";
-    src: url(fonts/LinLibertine_Rah.ttf);
+    font-family: "Calibri";
+    /* src: url(fonts/LinLibertine_Rah.ttf); */
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Linux Libertine";
-    src: url(fonts/LinLibertine_RIah.ttf);
+    font-family: "Calibri";
+    /* src: url(fonts/LinLibertine_RIah.ttf); */
     font-weight: normal;
     font-style: italic;
 }
